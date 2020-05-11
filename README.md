@@ -1,1 +1,1 @@
-# Simple-React-Weather
+A simple weather app with react. This project was made as a part of a learning series
