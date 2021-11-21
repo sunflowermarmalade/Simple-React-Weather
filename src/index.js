@@ -29,9 +29,9 @@ class App extends React.Component {
       return <Spinner />;
     } else {
       return (
-        <div class="ui active dimmer">
-          <div class="ui text">
-            <div class="ui raised very padded text">
+        <div className="ui active dimmer">
+          <div className="ui text">
+            <div className="ui raised very padded text">
               <Weather lat={this.state.lat} long={this.state.long} />
             </div>{" "}
           </div>
