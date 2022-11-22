@@ -14,7 +14,7 @@
     "nodemon": "^2.0.15",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "serve-favicon": "^2.5.0"
   },
   "scripts": {
